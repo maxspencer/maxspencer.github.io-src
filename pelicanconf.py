@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Max Spencer'
 SITENAME = 'Max Spencer'
-SITEURL = ''
+SITEURL = 'http://maxspencer.github.io'
 
 PATH = 'content'
 
@@ -33,3 +33,7 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Theme
+
+THEME = 'simple'
